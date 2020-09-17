@@ -82,6 +82,4 @@ function TeacherList() {
         </div>
     );	
 }
-
-
 export default TeacherList;
